@@ -5,7 +5,7 @@ Aplicación web de inscripción en un único archivo PHP (`comicon.php`). Muestr
 ## Requisitos y ejecución
 
 - PHP 8.0 o superior.
-- Desde la carpeta del proyecto, ejecuta `php -S localhost:8000` y abre <http://localhost:8000/comicon.php>.
+- Desde la carpeta del proyecto, ejecuta `php -S localhost:8000` y abre <http://localhost/Mini-Proyecto-Comic-Com/comicon.php>.
 
 ## Entradas y precios
 
